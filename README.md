@@ -31,3 +31,17 @@
 </body>
 
 </html>
+
+<!-- <-- Il semble que vous ayez mélangé des éléments HTML et CSS dans un fichier Markdown (README.md) destiné à être affiché sur GitHub. Cependjsonsiderant que GitHub n'interprète pas directement les balises HTML et les styles CSS dans les fichiers Markdown, il est nécessaire de structurer votre README.md en utilisant uniquement la syntaxe Markdown pour le contenu et de lier vos styles CSS de manière appropriée.
+
+Voici comment vous pouvez procéder :
+
+Contenu Markdown uniquement : Utilisez uniquement la syntaxe Markdown pour structurer le contenu de votre README.md. Par exemple, utilisez des balises Markdown telles que # pour les titres, ![texte alternatif](url_de_l'image) pour les images, et du texte brut pour le contenu.
+
+Lier votre fichier CSS : Si vous souhaitez appliquer des styles personnalisés à votre README, vous pouvez utiliser la balise <link> dans le <head> de votre fichier HTML pour lier votre fichier CSS externe. Cependant, gardez à l'esprit que GitHub n'interprète pas directement les balises HTML dans les fichiers Markdown. Par conséquent, l'application de styles personnalisés à votre README sur GitHub peut être limitée.
+
+Utilisation de balises HTML dans un fichier Markdown : Bien que GitHub prenne en charge certaines balises HTML dans les fichiers Markdown, l'utilisation de balises HTML pour le style est limitée. Il est recommandé d'utiliser la syntaxe Markdown pour la mise en forme du contenu.
+
+Pour une présentation plus efficace de votre profil sur GitHub, je vous recommande de structurer votre README.md en utilisant uniquement la syntaxe Markdown pour le contenu et d'éviter d'inclure des balises HTML et des styles CSS directement dans le fichier. Vous pouvez également consulter les conventions de formatage de GitHub pour des conseils sur la mise en forme de votre README.md.
+
+--> -->
