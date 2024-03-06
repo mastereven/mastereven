@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![Alt Text](https://giphy.com/gifs/batman-bruce-wayne-super-friends-Kn1UaRsYaGouc)
 
 
-<img src="https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif" width="100" height="100" />
+
+<img src="https://giphy.com/gifs/batman-bruce-wayne-super-friends-Kn1UaRsYaGouc" width="600" height="400" />
